@@ -34,7 +34,7 @@ I am passionate about distributed systems and cloud-native technologies, and hav
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
 </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fterraform&psig=AOvVaw3u9sII4wtFBV4YLRh6aYTh&ust=1752390260422000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDQ9Mngto4DFQAAAAAdAAAAABAE" width="36" height="36" alt="Terraform" />
+  <img src="https://img.icons8.com/color/48/terraform.png" width="36" height="36" alt="Terraform" />
 </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ansible-colored.svg" width="36" height="36" alt="Ansible" />
