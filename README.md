@@ -1,4 +1,4 @@
-<img width="719" height="768" alt="image" src="https://github.com/user-attachments/assets/5a916fdb-0d3b-4d07-8e58-9b44cef5ec48" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **Yuheng3107/Yuheng3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
