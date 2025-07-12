@@ -42,9 +42,6 @@ I am passionate about distributed systems and cloud-native technologies, and hav
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" width="36" height="36" alt="Ansible" />
 </a>
-<a href="https://fluxcd.io/" target="_blank" rel="noreferrer">
-  <img src="https://fluxcd.io/img/logos/flux-stacked-color.png" width="36" height="36" alt="Flux" />
-</a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000" width="36" height="36" alt="Grafana" />
 </a>
