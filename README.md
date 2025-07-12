@@ -37,13 +37,10 @@ I am passionate about distributed systems and cloud-native technologies, and hav
   <img src="https://img.icons8.com/color/48/terraform.png" width="36" height="36" alt="Terraform" />
 </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ansible-colored.svg" width="36" height="36" alt="Ansible" />
-</a>
-<a href="https://puppet.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/puppet-colored.svg" width="36" height="36" alt="Puppet" />
+  <img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" width="36" height="36" alt="Ansible" />
 </a>
 <a href="https://fluxcd.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flux-colored.svg" width="36" height="36" alt="Flux" />
+  <img src="https://fluxcd.io/img/logos/flux-stacked-color.png" width="36" height="36" alt="Flux" />
 </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grafana-colored.svg" width="36" height="36" alt="Grafana" />
