@@ -21,7 +21,8 @@ I am passionate about distributed systems and cloud-native technologies, and hav
 
 #### Work
 I have worked at TikTok as a Backend Engineer Intern (3mo), Binance as a DevOps Engineer Intern (7mo), and Marshall Wace (3mo) and am open to internship opportunties, feel free to email me at yuheng3107@gmail.com if you have any opportunties.
-
+## LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yuheng3107?theme=light&font=Krub)
 ## GitHub contributions
 
 ![](https://github-readme-stats.vercel.app/api?username=Yuheng3107&theme=github)
