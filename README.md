@@ -54,8 +54,8 @@ I am passionate about distributed systems and cloud-native technologies, and hav
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/openshift-colored.svg" width="36" height="36" alt="OpenShift" />
 </a>
-
 </p>
+
 #### Work
 I have worked at TikTok as a Backend Engineer Intern (3mo), Binance as a DevOps Engineer Intern (7mo), and Marshall Wace (3mo) and am open to internship opportunties, feel free to email me at yuheng3107@gmail.com if you have any opportunties.
 
