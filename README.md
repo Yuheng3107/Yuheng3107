@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="719" height="768" alt="image" src="https://github.com/user-attachments/assets/5a916fdb-0d3b-4d07-8e58-9b44cef5ec48" />## Hi there 👋
 
 <!--
 **Yuheng3107/Yuheng3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,9 @@ I am Yuheng, a student at Nanyang Technological University studying Computer Sci
 I am passionate about distributed systems and cloud-native technologies, and have recently been trying to contribute to open-source, and am currently working on Telepresence OSS.
 ### Skills
 <p align="left">
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+</a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -43,13 +46,13 @@ I am passionate about distributed systems and cloud-native technologies, and hav
   <img src="https://fluxcd.io/img/logos/flux-stacked-color.png" width="36" height="36" alt="Flux" />
 </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grafana-colored.svg" width="36" height="36" alt="Grafana" />
+  <img src="https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000" width="36" height="36" alt="Grafana" />
 </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prometheus-colored.svg" width="36" height="36" alt="Prometheus" />
+  <img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" width="36" height="36" alt="Prometheus" />
 </a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/openshift-colored.svg" width="36" height="36" alt="OpenShift" />
+  <img src="https://img.icons8.com/?size=100&id=V8TyzYpasxCk&format=png&color=000000" width="36" height="36" alt="OpenShift" />
 </a>
 </p>
 
