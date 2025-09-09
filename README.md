@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yuheng, a student at Nanyang Technological University studying Computer Science.
+I am Yuheng, current studying Computer Science @ UC Berkeley.
 I am passionate about distributed systems and cloud-native technologies, and have recently been trying to contribute to open-source, and am currently working on Telepresence OSS.
 ### Skills
 <p align="left">
